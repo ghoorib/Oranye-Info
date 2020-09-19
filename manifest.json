@@ -1,0 +1,38 @@
+{
+  "name": "Oranye Info",
+  "short_name": "oranyeinfo",
+  "start_url": "https://oranyeinfo.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Berbagai Info Dari Blog Warna Oranye",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-YPe5gmsSg5c/X2TFS1XD2eI/AAAAAAAAAGI/M0-7LjT4r4Imru0y3vNMU7_fTi_ClS5bwCLcBGAsYHQ/s48/OranyeInfoFavicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-YPe5gmsSg5c/X2TFS1XD2eI/AAAAAAAAAGI/M0-7LjT4r4Imru0y3vNMU7_fTi_ClS5bwCLcBGAsYHQ/s72/OranyeInfoFavicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-YPe5gmsSg5c/X2TFS1XD2eI/AAAAAAAAAGI/M0-7LjT4r4Imru0y3vNMU7_fTi_ClS5bwCLcBGAsYHQ/s96/OranyeInfoFavicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-YPe5gmsSg5c/X2TFS1XD2eI/AAAAAAAAAGI/M0-7LjT4r4Imru0y3vNMU7_fTi_ClS5bwCLcBGAsYHQ/s144/OranyeInfoFavicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-YPe5gmsSg5c/X2TFS1XD2eI/AAAAAAAAAGI/M0-7LjT4r4Imru0y3vNMU7_fTi_ClS5bwCLcBGAsYHQ/s168/OranyeInfoFavicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-YPe5gmsSg5c/X2TFS1XD2eI/AAAAAAAAAGI/M0-7LjT4r4Imru0y3vNMU7_fTi_ClS5bwCLcBGAsYHQ/s192/OranyeInfoFavicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-YPe5gmsSg5c/X2TFS1XD2eI/AAAAAAAAAGI/M0-7LjT4r4Imru0y3vNMU7_fTi_ClS5bwCLcBGAsYHQ/s512/OranyeInfoFavicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
